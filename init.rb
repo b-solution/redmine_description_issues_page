@@ -2,7 +2,7 @@ Redmine::Plugin.register :redmine_description_issues_page do
   name 'Redmine Description Issues Page'
   author 'FlexSolution'
   description 'Make possible to show description on issues page'
-  version '0.0.2'
+  version '0.0.3'
   url 'https://git.flex-solution.com/Simplex/redmine_description_issues_page/'
   author_url 'https://www.flex-solution.com'
 

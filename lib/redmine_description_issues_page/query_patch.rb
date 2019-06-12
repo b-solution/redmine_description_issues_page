@@ -11,7 +11,7 @@ module RedmineDescriptionIssuesPage
 
     module InstanceMethods
       def css_classes_with_default
-        name == :column_description ? :description : name
+        name == :column_description ? :status : name
       end
     end
   end
